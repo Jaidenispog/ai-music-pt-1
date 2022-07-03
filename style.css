@@ -1,0 +1,26 @@
+body{
+
+    background-color: red;
+}
+
+h3{
+
+    font-size: 17px;
+    background-color:pink;
+    color: black;
+}
+
+.heading{
+
+    font-size: 25px;
+    width: 100%;
+    color: blueviolet;
+    box-shadow: 4px 4px 4px black;
+    
+}
+
+canvas{
+ 
+    border: 5px solid blue;
+    border-radius:20px;
+}
